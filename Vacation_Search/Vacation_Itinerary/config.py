@@ -1,0 +1,1 @@
+g_key = "Get Google api key"
